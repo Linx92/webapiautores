@@ -109,7 +109,7 @@ namespace WebApiAutores.Controllers.V1
             return NoContent();
         }
         /// <summary>
-        /// Borra un autor ingresando el Id
+        /// Borra un autor saludos desde Azure DevOps
         /// </summary>
         /// <param name="id">Id de un autor a borrar</param>
         /// <returns></returns>
