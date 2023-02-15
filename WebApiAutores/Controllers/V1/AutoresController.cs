@@ -109,7 +109,7 @@ namespace WebApiAutores.Controllers.V1
             return NoContent();
         }
         /// <summary>
-        /// Borra un autor
+        /// Borra un autor ingresando el Id
         /// </summary>
         /// <param name="id">Id de un autor a borrar</param>
         /// <returns></returns>
